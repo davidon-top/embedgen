@@ -1,0 +1,8 @@
+{
+    "success": true,
+    "version": "1.0",
+    "author_name": "{{TITLE}}",
+    "author_url": "{{TITURL}}",
+    "provider_name": "{{PROV}}",
+    "provider_url": "{{PROVURL}}"
+}
